@@ -18,7 +18,7 @@ You can check out the live demo of the Todo List web app [here](https://abdellat
 
 ## Screenshots
 
-![image](![Alt text](<Screenshot 2023-12-19 210821.png>))
+![Alt text](<Screenshot 2023-12-19 210821.png>)
 
 ## Technologies Used
 
