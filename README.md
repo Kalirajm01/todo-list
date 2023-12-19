@@ -18,21 +18,21 @@ You can check out the live demo of the Todo List web app [here](https://abdellat
 
 ## Screenshots
 
-There three different modes in the web app.
+There are three different modes of views in the web app.
 
 ![Alt text](<Screenshot 2023-12-19 210821.png>)
 
-There three different modes in the web app.
+The below image shows the light mode view.
 
-![Alt text](<Screenshot 2023-12-19 210821.png>)
+![Alt text](<Screenshot 2023-12-19 210835.png>)
 
-There three different modes in the web app.
+The below image shows the ToDo web application.
 
-![Alt text](<Screenshot 2023-12-19 210821.png>)
+![Alt text](<Screenshot 2023-12-19 210847.png>)
 
-There three different modes in the web app.
+The user can filter the items by filter option.
 
-![Alt text](<Screenshot 2023-12-19 210821.png>)
+![Alt text](<Screenshot 2023-12-19 210904.png>)
 
 ## Technologies Used
 
