@@ -18,6 +18,8 @@ You can check out the live demo of the Todo List web app [here](https://abdellat
 
 ## Screenshots
 
+There three different modes in the web app.
+
 ![Alt text](<Screenshot 2023-12-19 210821.png>)
 
 ## Technologies Used
