@@ -22,6 +22,18 @@ There three different modes in the web app.
 
 ![Alt text](<Screenshot 2023-12-19 210821.png>)
 
+There three different modes in the web app.
+
+![Alt text](<Screenshot 2023-12-19 210821.png>)
+
+There three different modes in the web app.
+
+![Alt text](<Screenshot 2023-12-19 210821.png>)
+
+There three different modes in the web app.
+
+![Alt text](<Screenshot 2023-12-19 210821.png>)
+
 ## Technologies Used
 
 - HTML5: The structure of the web app.
